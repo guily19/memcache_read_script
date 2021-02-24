@@ -1,0 +1,17 @@
+{
+  "name": "memcache-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "memcache": "^0.3.0",
+    "memcached": "^2.2.2",
+    "memcached-elasticache": "^1.1.1"
+  }
+}
